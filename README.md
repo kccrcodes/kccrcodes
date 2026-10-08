@@ -19,9 +19,9 @@ Previously built and shipped **full-stack products and payment integrations at D
 
 ## Hackathons & Projects
 
-- **Singapore Defence Tech Hackathon (Top 2)** — **Garudians**, AI-powered counter-drone defence system
-- **Agentic AI Build Week (Top 2)** — **Airport Ops**, multi-agent airport operations platform
-- **Acacia Student Life Hackathon (Top 8)** — **uWash**, campus laundry solution
+- **Singapore Defence Tech Hackathon (Top 2)** — [**Garudians**](https://github.com/tommyquak/SDTH-Garudians)  AI-powered counter-drone defence system
+- **Agentic AI Build Week (Top 2)** — [**AirportOps**](https://github.com/Praneeth-Suresh/AirportOps), multi-agent airport operations platform
+- **Acacia Student Life Hackathon (Top 8)** — [**uWash**](https://github.com/Hypovolemic/uwash-dashboard) campus laundry solution
 - **Singapore Cyber Conquest (Finalist)** — National cybersecurity CTF competition
 - **Finly** — Multi-agent AI investment research platform
 - **KittyWatch** — Community cat tracking with CLIP image recognition
