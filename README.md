@@ -13,19 +13,19 @@ Previously built and shipped **full-stack products and payment integrations at D
 
 ## Experience
 
-- **Mojaloop** — Open Source Software Engineer, contributing to digital payments infrastructure, backend APIs, and reliability across distributed payment services.
-- **NUS Developer Group** — Product Associate, defining MVP scope and product requirements for ACRES' volunteer analytics platform.
-- **DealersEdgeAsia** — Product Engineer Intern, shipped a full-stack discovery and payments platform for 200+ users, integrated PayOS and built AI-powered automation workflows.
+- **Mojaloop** — Open Source SWE, distributed payments infrastructure & backend reliability
+- **NUS Developer Group** — Product Associate, analytics platform for ACRES
+- **DealersEdgeAsia** — Product Engineer Intern, full-stack payments platform serving 200+ users
 
 ## Hackathons & Projects
 
-- **Singapore Defence Tech Hackathon 2026 (Top 2)** — **Guardians**, a counter-drone defence solution for detecting and responding to coordinated drone threats.
-- **Agentic AI Build Week 2026 (Top 2)** — **Airport Ops**, an agentic AI solution for airport operations and decision support.
-- **Acacia Student Life Hackathon 2026 (Top 8)** — **uWash**, a student-life solution addressing everyday campus challenges.
-- **Singapore Cyber Conquest 2026 (Finalist)** — Qualified for the national CTF finals organised by Singapore's Cyber Security Agency.
-- **Finly** — Multi-agent AI investment analysis platform with four specialised agents for research, fundamentals, technical analysis, and risk.
-- **KittyWatch** — Community cat-tracking platform using geospatial queries, Redis, and CLIP embeddings for image re-identification.
-- **ScamShield** — AI-assisted scam detection platform combining structured AI analysis with deterministic risk scoring.
+- **Singapore Defence Tech Hackathon (Top 2)** — **Guardians**, AI-powered counter-drone defence system
+- **Agentic AI Build Week (Top 2)** — **Airport Ops**, multi-agent airport operations platform
+- **Acacia Student Life Hackathon (Top 8)** — **uWash**, campus laundry solution
+- **Singapore Cyber Conquest (Finalist)** — National cybersecurity CTF competition
+- **Finly** — Multi-agent AI investment research platform
+- **KittyWatch** — Community cat tracking with CLIP image recognition
+- **ScamShield** — AI-powered payment scam detection
 
 ## Stack
 
