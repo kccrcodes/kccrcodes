@@ -9,7 +9,7 @@ Previously built and shipped **full-stack products and payment integrations at D
 
 ☕ Always down for coffee, collaborations, and language exchanges!
 
-📄 [Resume](YOUR_LINK) · [LinkedIn](https://www.linkedin.com/in/kalent-chia-218861214/) · [Portfolio](https://kalent-portfolio.vercel.app/) · [Email](mailto:kalentchia2@gmail.com)
+📄 [Resume](https://github.com/kccrcodes/kccrcodes/blob/main/SWE%20Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/kalent-chia-218861214/) · [Portfolio](https://kalent-portfolio.vercel.app/) · [Email](mailto:kalentchia2@gmail.com)
 
 ## Experience
 
