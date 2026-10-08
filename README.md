@@ -19,7 +19,7 @@ Previously built and shipped **full-stack products and payment integrations at D
 
 ## Hackathons & Projects
 
-- **Singapore Defence Tech Hackathon (Top 2)** — **Guardians**, AI-powered counter-drone defence system
+- **Singapore Defence Tech Hackathon (Top 2)** — **Garudians**, AI-powered counter-drone defence system
 - **Agentic AI Build Week (Top 2)** — **Airport Ops**, multi-agent airport operations platform
 - **Acacia Student Life Hackathon (Top 8)** — **uWash**, campus laundry solution
 - **Singapore Cyber Conquest (Finalist)** — National cybersecurity CTF competition
