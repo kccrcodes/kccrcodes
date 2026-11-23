@@ -17,6 +17,20 @@ Previously built and shipped **full-stack products and payment integrations at D
 - **NUS Developer Group** — Product Associate, analytics platform for ACRES
 - **DealersEdgeAsia** — Product Engineer Intern, full-stack payments platform serving 200+ users
 
+## Open Source Contributions
+
+**Mojaloop**
+- [fix(parties): return generic party not found in default mode](https://github.com/mojaloop/account-lookup-service/pull/637) — Return a generic party-not-found error when proxy discovery is disabled
+- [chore: update dependencies and remove legacy tap-spec formatter](https://github.com/mojaloop/central-ledger/pull/1300) — Remove the legacy tap-spec formatter and keep the transfer expiration mapping
+
+**Apache**
+- [perf(core): stop not(out().has()) at the first matched neighbor](https://github.com/apache/hugegraph/pull/3486) — Stop `not(out().has())` from reading hundreds of edges after the first match *(in review)*
+- [FINERACT-3319: Validate share account status on undo approval and reject](https://github.com/apache/fineract/pull/6997) — Block undo-approval and reject on share accounts in the wrong status *(open)*
+
+**Jenkins**
+- [fix: retry node_exporter on the next port if its port is taken (#142)](https://github.com/jenkinsci/opentelemetry-agent-metrics-plugin/pull/144) — Retry node_exporter on the next port if the chosen port is taken
+- [Test onMonit across a controller restart, and fix what the tests found](https://github.com/jenkinsci/opentelemetry-agent-metrics-plugin/pull/145) — Test onMonit across a controller restart and stop leftover processes *(open)*
+
 ## Hackathons & Projects
 
 - **Singapore Defence Tech Hackathon (Top 2)** — [**Garudians**](https://github.com/tommyquak/SDTH-Garudians)  AI-powered counter-drone defence system
